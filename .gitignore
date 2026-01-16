@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Project-specific: ignore GPU Spoofer runtime DB
+gpu_spoofer_db.txt
